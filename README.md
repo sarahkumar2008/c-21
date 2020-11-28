@@ -1,2 +1,2 @@
-# c-21
-rectangle collision (2)
+# collisionAlgorithm
+Algorithm to detect collision between two objects
